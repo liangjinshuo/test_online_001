@@ -16,3 +16,4 @@ module.exports = async function (params, context, logger) {
 
   // 在这里补充业务代码
 }
+application.function

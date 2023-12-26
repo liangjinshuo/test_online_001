@@ -11,6 +11,14 @@
   },
   "longTaskMode": false,
   "frontendSDKInvokable": false,
-  "input": [],
+  "input": [
+    {
+      "key": "f",
+      "type": "Number",
+      "label": "f",
+      "required": true,
+      "description": ""
+    }
+  ],
   "output": []
 }
